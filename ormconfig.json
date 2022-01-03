@@ -2,7 +2,7 @@
   "type": "postgres",
   "port": 5432,
 
-  "host": "localhost", 
+  "host": "172.29.0.2", 
   "username": "postgres",
   "password": "docker",
 
