@@ -5,20 +5,17 @@
     # Install dependencies
     yarn install    
 
-    # Docker - Create containers
-    docker-compose up
-
-    # Run migrations
-    yarn typeorm migration:run 
+    # Docker - Create container
+    docker run --name ignite-challenge-database-queries -e POSTGRES_DB=queries_challenge -e POSTGRES_PASSWORD=docker -p 5432:5432 -d postgres
   ```
 
   ### Run project
   ```bash
-    # Docker - Start containers
-    docker-compose start
+    # Docker - Start container
+    docker start ignite-challenge-database-querie
 
-    # Docker - Stop containers
-    docker-compose stop
+    # Docker - Stop container
+    docker stop ignite-challenge-database-queries
   ```
 
   ### Run tests
