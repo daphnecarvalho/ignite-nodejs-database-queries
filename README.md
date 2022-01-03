@@ -1,6 +1,6 @@
 # Desafio: Database Queries
 
-Instructions: [Notion - Rocketseat](https://www.notion.so/Desafio-01-Database-Queries-8d97dae581d5446e97555c43d301ee45)
+Instructions: [Database Queries](https://www.notion.so/Desafio-01-Database-Queries-8d97dae581d5446e97555c43d301ee45) and [Modelagem do Banco de Dados](https://www.notion.so/Desafio-02-Modelagem-do-banco-de-dados-0ce9c10f9e114be0a9ee9359d68639ff).
 
 ## Tests
 
