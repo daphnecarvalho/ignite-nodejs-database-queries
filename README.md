@@ -12,7 +12,7 @@
   ### Run project
   ```bash
     # Docker - Start container
-    docker start ignite-challenge-database-querie
+    docker start ignite-challenge-database-queries
 
     # Docker - Stop container
     docker stop ignite-challenge-database-queries
