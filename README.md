@@ -1,6 +1,6 @@
 # Challenge: Database Queries
 
-Instructions: [Notion - Rocketseat](https://www.notion.so/Desafio-01-Database-Queries-8d97dae581d5446e97555c43d301ee45)
+Instructions: [Database Queries](https://www.notion.so/Desafio-01-Database-Queries-8d97dae581d5446e97555c43d301ee45).
 
 ## Base URL
 http://localhost:3333
